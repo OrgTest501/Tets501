@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6990cbe8-8364-4783-9078-aa19610bde62">
+  <name>Test501</name>
+  <synonym>
+    <key>en</key>
+    <value>Test501</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="35e3b191-c55a-45c4-ad8b-92ba56a540d8"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="10f99b3f-8cfb-4dd9-9218-2eda5d6907a7"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="508c0c2a-086e-49dd-a77e-630b40dc845c"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c25d2e53-927e-46b3-88ee-d95229f63cb9"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="80596dd6-96ad-4e43-ad0c-df93fc8cd2ae"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d15ce5ed-8ae9-48be-bfd2-243b8ffacbc3"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="eeae97fb-e7f8-4da1-95ee-2bfe1710dea3"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.English</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="ee7a1444-63f8-4284-ae9b-da8d8aebc92f">
+    <name>English</name>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.Продажи</documents>
+</mdclass:Configuration>
